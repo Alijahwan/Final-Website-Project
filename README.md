@@ -1,2 +1,1 @@
-# Final-Website-Project
-AP Computer Principles
+# apcs-p-website
